@@ -1,2 +1,2 @@
 # C-demo
-This is my first Git REository
+This is my first Git Repository
